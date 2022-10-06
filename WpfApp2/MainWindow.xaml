@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <DockPanel>
-        <Button>Arriba</Button>
+        <Button>Arriba2</Button>
         <Button DockPanel.Dock="Bottom">Abajo</Button>
         <Button DockPanel.Dock="Right">Derecha</Button>
         <Button DockPanel.Dock="Top">Arriba 2</Button>
